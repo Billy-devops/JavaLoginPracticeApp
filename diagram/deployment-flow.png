@@ -1,0 +1,6 @@
+## Deployment Flow Diagram
+
+![Flow Diagram](diagram/deployment-flow.png)
+
+### Flow:
+Java Code → Maven → WAR → Tomcat → Docker → Linux VM → Browser
